@@ -1,0 +1,31 @@
+body {
+  font-family: Arial, sans-serif;
+  background: #f8f9fa;
+  text-align: center;
+}
+
+table {
+  border-collapse: collapse;
+  margin: 20px auto;
+  text-align: center;
+  box-shadow: 0 2px 6px rgba(0,0,0,0.1);
+}
+
+th, td {
+  border: 1px solid #555;
+  padding: 8px;
+  width: 42px;
+  height: 42px;
+}
+
+th {
+  background-color: #eaeaea;
+}
+
+td {
+  background-color: #fff;
+}
+
+.prev { color: #aaa; background: #f4f4f4; }
+.hoy  { outline: 2px solid #333; font-weight: bold; }
+
